@@ -1,0 +1,1 @@
+http://127.0.0.1:9001/smartcar/predict?wea=2&temp=0&hum=1&arrOthCar=2&time=0&acciArea=1&drvCond=1&innCond=2&carSpd=2&steeAng=0
